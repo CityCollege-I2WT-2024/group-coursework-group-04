@@ -1,10 +1,10 @@
-Group Name   :
-Website Title:
-Group Leader :
-Group Member1:
-Group Member2:
-Group Member3:
-Group Member4:
+Group Name   : Goku
+Website Title: Lifesaver 101
+Group Leader : Olt Lluka
+Group Member1: Orges Sylejmani 
+Group Member2: Konstantinos Dingelidis
+Group Member3: Arbi Xhengo
+Group Member4: Eguen Toska
 
 ## Instructions:
 - clone this repo
